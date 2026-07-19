@@ -1,5 +1,55 @@
 # HashMap vs ConcurrentHashMap
 
+## Table of Contents
+
+- Introduction
+- What is HashMap?
+- What is ConcurrentHashMap?
+- Key Differences
+- Internal Working
+- Time Complexity
+- Code Examples
+- Interview Questions
+- Summary
+
+## Introduction
+
+...
+
+## What is HashMap?
+
+...
+
+## What is ConcurrentHashMap?
+
+...
+
+## Key Differences
+
+...
+
+## Internal Working
+
+...
+
+## Time Complexity
+
+...
+
+## Code Examples
+
+...
+
+## Interview Questions
+
+...
+
+## Summary
+
+...
+
+# HashMap vs ConcurrentHashMap
+
 ## Introduction
 
 `HashMap` and `ConcurrentHashMap` are two commonly used classes in Java for storing data as key-value pairs. While both implement the `Map` interface, they are designed for different use cases.
